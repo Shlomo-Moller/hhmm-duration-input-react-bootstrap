@@ -1,0 +1,18 @@
+.hhmm-duration-input {
+    border: 1px solid;
+    border-radius: 3px;
+    padding: 0 3px;
+}
+
+.hhmm-duration-input-slot {
+    width: 1.2rem;
+    text-align: center;
+    padding: 0;
+    border: none;
+    border-radius: 3px;
+    outline: none;
+}
+
+.hhmm-duration-input-separator {
+    width: .5rem;
+}
